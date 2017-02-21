@@ -29,7 +29,7 @@ Accept Payment using Billplz for Orderbox
   
   5.1. Set to Once A Month: 
   ```
-  php -q /home/<username>/public_html/path/assets/cron/cron.php >/dev/null 2>&1
+  php -q /home/<username>/public_html/assets/cron/cron.php >/dev/null 2>&1
   ```
   
 # Donation
