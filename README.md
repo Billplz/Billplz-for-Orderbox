@@ -25,15 +25,8 @@ Accept Payment using Billplz for Orderbox
   4.3. Enable Gateway for ALL
 
   4.4. Checksum Algorithm: MD5
-5. Set up Cron Jobs
   
-  5.1. Set to Once A Month: 
-  ```
-  php -q /home/<username>/public_html/assets/cron/cron.php >/dev/null 2>&1
-  ```
-  
-# Donation
+# Other
 
-Please support this project by donation: www.wanzul.net/donate
-
+Facebook: [Billplz Dev Jam](https://www.facebook.com/groups/billplzdevjam/)
 
